@@ -29,13 +29,13 @@
 Resultado do desafio proposto por <a href="https://devchallenge.now.sh/"> DevChallenge</a> no qual consiste em criar uma página sobre uma empresa que desenvolve sites.
 
 <p align="center">
-  <img src="./assets/print_tela.png" alt="foto da página inicial do site">
+  <img src="./assets/print_tela.png" alt="foto da página inicial do site" width="700" height="400">
 </p>
 
 # Techs:
 
-HTML<br>
-CSS
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 # Requisitos:
 
